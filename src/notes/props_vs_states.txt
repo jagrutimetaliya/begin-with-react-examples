@@ -1,0 +1,14 @@
+Component States : 
+1. Every react component return jsx which describes the UI
+
+props and states : 
+====
+get passed to the components => state is managed within the components 
+functional paramenters => Veriable declared in the function body. 
+props are immutable can not be changed by the childrens  => management within the componet full controll to change  the state=> state can be changed 
+
+accessed : 
+
+Functional Component => props  => useState Hook
+Class Component => this.props => this.state
+
