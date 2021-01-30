@@ -1,4 +1,4 @@
-# Getting Started with React Events
+# Create a New React App
 Three way to create projects in to react 
 
 # 1. Using node package manager
