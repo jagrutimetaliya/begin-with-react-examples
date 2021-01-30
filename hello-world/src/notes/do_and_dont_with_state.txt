@@ -1,0 +1,5 @@
+1. Never modify state directly insted use of setState, when you modify state directly react will not rerender the component. 
+2. setState let react to know the rerender the component 
+3. Console value is less then 1 then the rendered value this is just because to call to setState is asyncronus 
+4. Whenever you want to execute some code after the state  has been changes do not place code after setState method.
+5.    
