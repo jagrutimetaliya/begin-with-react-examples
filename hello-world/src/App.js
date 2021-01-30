@@ -17,8 +17,11 @@ import './App.css';
 // import ReactProps from './components/ReactPropsComponent'
 // import ReactPropsWithClassComponent from './components/ReactPropsWithClassComponent'
 // import StateComponent from './components/StateComponent'
-import SetStateClassComponent from './components/SetStateClassComponent'
 
+//import SetStateClassComponent from './components/SetStateClassComponent'
+
+import DestructuringFunctionalComponent from './components/DestructuringFunctionalComponent'
+import DestructuringClassComponent from './components/DestructuringClassComponent'
 
 class App extends Component{
   render(){
@@ -32,9 +35,9 @@ class App extends Component{
         {/* <ReactPropsWithClassComponent name="jassi" heroName="wonder women"> </ReactPropsWithClassComponent>
         <ReactPropsWithClassComponent name="Namshvi" heroName="Spider women"></ReactPropsWithClassComponent> */}
          {/* <StateComponent/> */}
-
-         <SetStateClassComponent/>
-
+       {/* <SetStateClassComponent/> */}
+       <DestructuringFunctionalComponent name="jassi" heroName="wonder women"> </DestructuringFunctionalComponent>
+       <DestructuringClassComponent name="jassi" heroName="wonder women"> </DestructuringClassComponent>
     </div>)
   }
 }
