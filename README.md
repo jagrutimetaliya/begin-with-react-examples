@@ -2,7 +2,8 @@
 Three way to create projects in to react 
 
 # 1. Using node package manager
-``` npx create-react-app begin-with-react-examples
+``` 
+npx create-react-app begin-with-react-examples
 cd begin-with-react-examples
 npm start 
 ```
