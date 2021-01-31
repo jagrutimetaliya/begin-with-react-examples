@@ -22,7 +22,7 @@ DOM updates which is one of the more expensive operations is handled gracefully 
 
 copied from : 
 https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3 
-
+https://scotch.io/starters/react/using-create-react-app-to-make-react-applications
 # Create a New React App
 Three way to create projects in to react 
 
